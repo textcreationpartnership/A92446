@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble desires of the commissioners in Scotland to the Kings Most Excellent Majestie with their hearty requests to unite the King and Parliament : as also, the names of the said commissioners : with an order of the House of Commons, testifying their loving acceptance and thankfulnesse for their brotherly care of the publique welfare.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92446</idno><idno type="EEBO-CITATION">38875702</idno>
+  <idno type="VID">152354</idno>
+  <idno type="EEBO-PROQUEST">2240913433</idno>
+  
+            <idno type="STC">Wing S1001H</idno>
+            <idno type="STC">ESTC R42751</idno>
+            <idno type="OCLC">38875702</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152354)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2294:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble desires of the commissioners in Scotland to the Kings Most Excellent Majestie with their hearty requests to unite the King and Parliament : as also, the names of the said commissioners : with an order of the House of Commons, testifying their loving acceptance and thankfulnesse for their brotherly care of the publique welfare.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Gay,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642. July 5.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 4: Earle Lothian, Earle Lindesay, Lord Balmerino, Sir Thomas Morton, Sir Thomas Hope, Sir Archibald Johnston. Burgesses, Sir Iohn Smith, Master Robert Barklay, Master Patrick Bell.</note>
+                  <note>Answer of the House of Commons: p. 5.</note>
+                  <note>Imperfect: tightly bound and with print show-through.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152354:1"/>
+            <p>The Humble Desires OF THE Commissioners in Scotland, To the KINGS Most Excellent Majestie.</p>
+            <p>With their hearty requests to unite the King and Parliament.</p>
+            <p>As also, The NAMES of the said Commissioners.</p>
+            <p>WITH An Order of the House of Commons, testifying their loving acceptance, and thankfulnesse for their brotherly care of the Pub<g ref="char:EOLhyphen"/>lique welfare.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Guy.</hi> 1642. July 5.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition_of_Scottish_commissioners">
+            <pb facs="tcp:152354:2"/>
+            <pb n="1" facs="tcp:152354:2"/>
+            <head>To the KINGS Most Excellent Majestie. The Humble Desires OF THE Commissioners in Scotland.</head>
+            <p>WEe Your Majesties humble and faith<g ref="char:EOLhyphen"/>full Subjects, Considering that the mutuall relation betwixt Your Maje<g ref="char:EOLhyphen"/>sties Kingdome of <hi>SCOTLAND</hi> and <hi>ENG<g ref="char:EOLhyphen"/>LAND,</hi> is such, as they must stand or fall toge<g ref="char:EOLhyphen"/>ther, and the disturbances of the one, must needs dis<g ref="char:EOLhyphen"/>quiet and distemper the Peace of the other, as hath beene often acknowledged by them both: And
+<pb n="2" facs="tcp:152354:3"/> especially in the late Treatie which is ratified in Par<g ref="char:EOLhyphen"/>liament, and confirmed by the publicke Faith of the Estates of Your Majesties Ancient and Native King<g ref="char:EOLhyphen"/>dome of <hi>Scotland,</hi> So that they are bound to main<g ref="char:EOLhyphen"/>taine the Peace and Liberties of one another, be<g ref="char:EOLhyphen"/>ing highly concerned therein, as the assured meanes of the safety and preservation of your own: And finding our selves warranted and obliged by all meanes to labour to keepe a right understanding be<g ref="char:EOLhyphen"/>tweene Your Majestie and Your People, to c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>firme that Brotherly affection begun betwixt the t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Nations, to advance their Unitie by all such wayes as may tend to the glory of God, and the peace of the Church and state of both Kingdomes. And like<g ref="char:EOLhyphen"/>wise to proffer our service for removing all Jealousies and mistakings which may arise betwixt Your Ma<g ref="char:EOLhyphen"/>jestie and this Kingdome, and our best indea<g ref="char:EOLhyphen"/>vours for the better establishment of the Affaires and quiet of the same: That both Your Majesties Kingdomes of <hi>Scotland</hi> and <hi>England</hi> may be United in the enjoying of the Liberties and Peace under Your Majesties Scepter, which is the most assured foundation of Your Majesties Honour and Great<g ref="char:EOLhyphen"/>nesse, and of the security of Your Royal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Per<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n, Crowne, and Dignitie: We have take<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the bold<g ref="char:EOLhyphen"/>nesse to shew Your Majestie, that We are <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear<g ref="char:EOLhyphen"/>tily sorry and greiv'd to behold these Distractions, which encrease dayly betwixt. Your Majestie and Your People, And which we conceive are enter<g ref="char:EOLhyphen"/>tain'd by the wicked Plots and Practises of Papists, Prelates, and their adherents, whose aime in all these Troubles, hath been not onely to prevent all
+<pb n="3" facs="tcp:152354:3"/> further Reformation, but also to subvert the purity and truth of Religion within all Your Majesties King<g ref="char:EOLhyphen"/>domes; For which end, their constant endeavours have beene to stirre up devision between Your Ma<g ref="char:EOLhyphen"/>jestie and Your People; by the questioning the Au<g ref="char:EOLhyphen"/>thority of Parliaments, and the lawfull Liberties of the Subjects, and really weakning Your Majesties Power and Authority Royall, upon pretence of defending the same. Whereof, by Gods providence, being disappointed in Your Majesties Kingdome of <hi>Scotland,</hi> they have now converted their mischievous counsels, conspiracies, and attempts to produce these distempers in Your Majesties Kingdomes of <hi>England</hi> and <hi>Ireland.</hi> And rherefore according to our duty to Your Majesty, to testifie our brotherly affection to these Kingdomes, and to quit our selves of the trust imposed on us; We do make offer of our humble endeavours for composing these differences. And to that purpose do beseeeh Your Majesty in these extremities, to have recourse to the sound and faith<g ref="char:EOLhyphen"/>full advice of the Honourable Houses of Parliament. And to repose thereupon, as the onely assured and happy means to establish the prosperity and quiet of this Kingdome. And in the depth of Your Royall Wisedome to consider and prevent these apprehensi<g ref="char:EOLhyphen"/>ons of fear, which may possesse the hearts of Your Majesties Subjects in Your other Kingdomes, if they shall conceive the authority of Parliaments, and the Rights and Liberties of the Subject to be here called in question: And we are confident, if Your Majesty shall be gratiously pleased to take in good part, and give ear to these our faithfull and humble desires,
+<pb n="4" facs="tcp:152354:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:152354:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:152354:5"/> that the success of Your Majesties affaires, howsoever now perplexed, shall be happy to Your Majesty, and joyfull to all Your People: over whom that Your Majesty may long and prosperously raigne, is the constant and fervent prayer of us,</p>
+            <closer>
+               <signed>Your Majesties faithfull Subjects and Servants;
+<list>
+                     <item>
+                        <list>
+                           <item>Earle <hi>Lothian.</hi>
+                           </item>
+                           <item>Earle <hi>Lindesay.</hi>
+                           </item>
+                           <item>Lord <hi>Balmerino.</hi>
+                           </item>
+                           <item>Sir <hi>Thomas Morton.</hi>
+                           </item>
+                           <item>Sir <hi>Thomas Hope.</hi>
+                           </item>
+                           <item>Sir <hi>Archibald Johnston</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Burgesses.</head>
+                           <item>Sir <hi>Iohn Smith.</hi>
+                           </item>
+                           <item>Master <hi>Robert Barklay.</hi>
+                           </item>
+                           <item>Master <hi>Patrick Bell.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="order_of_the_House_of_Commons">
+            <pb n="5" facs="tcp:152354:5"/>
+            <p>THe House of Commons having considered, both that Paper given in to them from the Scottish Commissioners upon Saturday last, as likewise their advice lately given to His Majesty, by occasion of these present troubles, which at the entreaty of the said House, they have communicated to them, and finding therein a large testimony of fidelity to the King, of af<g ref="char:EOLhyphen"/>fection to the State, and of wisedome for the honour, security, and peace of His Majesty, and both Kingdoms, doth hereby declare that they have herein done that which is not onely very acceptable to this House, but likewise that which is of great advantage to both Nati<g ref="char:EOLhyphen"/>ons. And therefore have ordered, That Sir <hi>Philip Stapleton,</hi> M. <hi>Hampden,</hi> M. <hi>Fynes,</hi> M. <hi>Pym,</hi> M. <hi>Arthur Goodwin,</hi> M. <hi>Long,</hi> Sir <hi>Henry Vane</hi> Junior, or any three of them, shall return them very hearty and affection<g ref="char:EOLhyphen"/>ate thanks in the name of this House. And this House doth further desire them, That according to their af<g ref="char:EOLhyphen"/>fections already expressed, they will continue their care and endeavours to remove the present distractions amongst us, as also to preserve and confirm the Union between the two Nations so happily begun.</p>
+            <closer>
+               <signed>Hen. Elsing, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
